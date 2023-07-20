@@ -1,0 +1,31 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+	font-family: 'GT America Expanded Bold';
+	src: url('./GTAmerica/GT-America-Expanded-Bold.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'GT America Expanded Black';
+	src: url('./GTAmerica/GT-America-Expanded-Black.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'GT America Regular';
+	src: url('./GTAmerica/GT-America-Regular.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GT Mono Thin';
+	src: url('./GTAmerica/GT-America-Mono-Thin.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
